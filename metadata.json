@@ -1,0 +1,5 @@
+{
+  "name": "Channel Setback Calculator",
+  "description": "A responsive web application that calculates the required channel setback distance based on curvature, width, and flow rate, following Arizona State Standard 5-96 guidelines.",
+  "requestFramePermissions": []
+}
